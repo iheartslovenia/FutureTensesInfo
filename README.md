@@ -1,6 +1,5 @@
 # FutureTensesInfo
-Examples of future tenses
-
+*Examples of future tenses*
 
 Future simple - I will watch tv tonight. 
 will + verb
